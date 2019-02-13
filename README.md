@@ -15,3 +15,4 @@ Lessons:
     Bit Rate
     Basic Cipher
     Fizz Buzz
+    StringStream
