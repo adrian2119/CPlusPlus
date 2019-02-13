@@ -4,6 +4,7 @@ Problems:
     Correct Change
     Letter Pyramid
     First Occurance of SubString
+    Find The Unique Number
 
 Sorting algorithms:
     Bubble Sort
