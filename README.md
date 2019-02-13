@@ -1,5 +1,8 @@
 Simply a collection of C++ lessons & problem solutions
 
+Problems:
+    Correct Change
+    
 Sorting algorithms:
     Bubble Sort
 

@@ -17,7 +17,7 @@ int main(int argc, const char * argv[]) {
         if(i % 3 == 0 || i % 5 == 0 || i % 15 == 0) {
             total += i;
             cout << i
-            << " "
+            << "---"
             << total
             << endl;
         }
