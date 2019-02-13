@@ -5,6 +5,7 @@ Problems:
     Letter Pyramid
     First Occurance of SubString
     Find The Unique Number
+    Length of Last Word
 
 Sorting algorithms:
     Bubble Sort
