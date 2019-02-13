@@ -6,3 +6,4 @@ Sorting algorithms:
 Lessons:
     Bit Rate
     Basic Cipher
+    Fizz Buzz
