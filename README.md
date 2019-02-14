@@ -7,6 +7,7 @@ Problems:
     Find The Unique Number
     Length of Last Word
     ZigZag word - V2
+    Hour Glass
 
 Sorting algorithms:
     Bubble Sort
