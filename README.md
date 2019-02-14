@@ -8,6 +8,7 @@ Problems:
     Length of Last Word
     ZigZag word - V2
     Hour Glass
+    Kristen's Scores
 
 Sorting algorithms:
     Bubble Sort
