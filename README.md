@@ -9,6 +9,7 @@ Problems:
     ZigZag word - V2
     Hour Glass
     Kristen's Scores
+    Vector Erase
 
 Sorting algorithms:
     Bubble Sort
@@ -18,3 +19,6 @@ Lessons:
     Basic Cipher
     Fizz Buzz
     StringStream
+    Add To Linked List at Position
+    Add To Tail of Linked List
+    Add To Head of Linked List
